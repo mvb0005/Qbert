@@ -3,7 +3,7 @@
 
 ### Qbert is a chrome extension that has 3 uses.
 
-You can add a webpage to the queue. 
+You can add a webpage to the queue.  
 You can goto the next webpage in the queue. (This removes the site from the queue) 
 You can view the queue as a list. 
 
